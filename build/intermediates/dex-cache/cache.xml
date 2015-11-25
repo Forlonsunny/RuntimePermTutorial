@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Software\Robin Vai\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-fbf837baa5a7b81ac4abf31bb0dac3701744df1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Suuny\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-a4865a253b665eca02edbd78b8558fbcdf826bab.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\pre-dexed\debug\classes-680cdb4587a408cb176b41d12aead5dda47cc9b7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\exploded-aar\com.githang\com-phillipcalvin-iconbutton\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f20ea6c0651b6abd6e8ff0e07dd1d517ba8a56ab">
+        <dex dex="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\pre-dexed\debug\classes-fd2d7b534f5ef7986f0f14858cb31a57ae218e49.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ca504182198db4a0f81779ca3fe391374c8cb66a">
+        <dex dex="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\pre-dexed\debug\classes-39d77fbcf9ae5684c8fa016b2e758c972158cd15.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-04b435bdb07bbdf58cef5ee2c0431bc6afb40290.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\exploded-aar\com.commonsware.cwac\cam2\0.2.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77598001b539334d533dc614f0e6d3bffa3eb180">
+        <dex dex="D:\AndroidStudioProjects\RuntimePermTutorial\app\build\intermediates\pre-dexed\debug\classes-b8f1eff0dca20cb9a5c979a2dbabb43190065dbb.jar" />
+    </item>
+
+</items>
